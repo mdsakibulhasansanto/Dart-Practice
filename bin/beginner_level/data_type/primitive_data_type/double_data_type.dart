@@ -46,6 +46,6 @@ void main() {
   print(methodDigit.toStringAsPrecision(5)); // Would be to correct answer => 20.030
   print(methodDigit.abs()); // Would be to correct answer => 20.03
 
-
+ // bool হল Dart-এর একটি প্রিমিটিভ (primitive) ডেটা টাইপ যা দুইটি মান ধারণ করে —
 
 }
