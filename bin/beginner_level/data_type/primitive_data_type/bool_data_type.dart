@@ -6,5 +6,5 @@ void main () {
   bool isAvailable  = true;
   bool isAvailableNot = false;
   print(isAvailable); // Would be to correct answer => true
-  print(isAvailableNot); // Would be to correct answer => false
+  print(isAvailableNot); // Would be to correct answer => false s
 }
