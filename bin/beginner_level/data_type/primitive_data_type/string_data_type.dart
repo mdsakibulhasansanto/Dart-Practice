@@ -24,7 +24,7 @@ void main () {
   print( firstName + ' ' + lastName); // would be the correct answer => Md Santo
 
 
-  // String operation or Common String Methods or formating
+  // Common String built in methods  or formating
   String operation = 'operation';
   print(operation.length);
   print(operation.toLowerCase()); // would be the correct answer => operation
@@ -57,14 +57,14 @@ void main () {
   print(space);
 
 
-  // String to int / double convert
+  // Type Conversion String to int / double convert
   String roll = '100';
   int intRoll = int.parse(roll); // Would be correct answer => 100
   double doubleRoll = double.parse(roll); // Would be correct answer => 100.0
   print(intRoll);
   print(doubleRoll);
 
-  // Int or Double to string convert
+  //  Type Conversion Int or Double to string convert
   int age = 19;
   double doubleAge = 19.0;
   String stringAge = age.toString();
